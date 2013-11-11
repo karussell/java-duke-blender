@@ -1,4 +1,4 @@
-Duke, the Java Mascot - now for Blender
+Duke, the Java Mascot for Blender
 =================
 
 License: CC-BY-SA: design by Joe Palrang for Green Project at Sun 1996, transfered to blender-3d by Remigiusz Fiedler 2013
