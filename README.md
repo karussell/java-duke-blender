@@ -1,3 +1,5 @@
+![Java Duke](http://karussell.files.wordpress.com/2013/11/duke.png)
+
 Duke, the Java Mascot for Blender
 =================
 
